@@ -1,6 +1,8 @@
 # 💫 About Me:
 Olá, eu sou a Beatriz <3
 
+Eu diria que sou uma pessoa curiosa que sempre está atrás de conhecimento.
+
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beatriz-soares-2357b0261/) 
