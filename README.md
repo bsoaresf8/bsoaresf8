@@ -1,4 +1,4 @@
-#Olá, eu sou a Beatriz <3
+## Olá, eu sou a Beatriz <3:
 
 Eu diria que sou uma pessoa curiosa que sempre está atrás de conhecimento.
 
