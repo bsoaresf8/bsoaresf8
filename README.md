@@ -1,6 +1,6 @@
 ## Olá, eu sou a Beatriz <3:
 
-Eu diria que sou uma pessoa curiosa que sempre está atrás de conhecimento.
+Futura Desenvolvedora Web - Entrei no mundo da tecnologia por curiosidade e pretendo aprender cada vez mais.
 
 
 ## 🌐 Social:
